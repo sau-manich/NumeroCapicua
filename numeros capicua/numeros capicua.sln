@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numeros capicua", "numeros capicua\numeros capicua.csproj", "{085A60C9-6432-4D82-AE59-67E01A55233C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{085A60C9-6432-4D82-AE59-67E01A55233C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085A60C9-6432-4D82-AE59-67E01A55233C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085A60C9-6432-4D82-AE59-67E01A55233C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085A60C9-6432-4D82-AE59-67E01A55233C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

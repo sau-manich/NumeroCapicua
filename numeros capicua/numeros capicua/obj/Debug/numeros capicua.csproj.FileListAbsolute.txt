@@ -1,0 +1,15 @@
+c:\users\saul\documents\visual studio 2012\Projects\numeros capicua\numeros capicua\bin\Debug\numeros capicua.exe.config
+c:\users\saul\documents\visual studio 2012\Projects\numeros capicua\numeros capicua\bin\Debug\numeros capicua.exe
+c:\users\saul\documents\visual studio 2012\Projects\numeros capicua\numeros capicua\bin\Debug\numeros capicua.pdb
+c:\users\saul\documents\visual studio 2012\Projects\numeros capicua\numeros capicua\obj\Debug\numeros capicua.csprojResolveAssemblyReference.cache
+c:\users\saul\documents\visual studio 2012\Projects\numeros capicua\numeros capicua\obj\Debug\numeros capicua.exe
+c:\users\saul\documents\visual studio 2012\Projects\numeros capicua\numeros capicua\obj\Debug\numeros capicua.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\numeros capicua\numeros capicua\bin\Debug\numeros capicua.exe.config
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\numeros capicua\numeros capicua\obj\Debug\numeros capicua.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\numeros capicua\numeros capicua\obj\Debug\numeros capicua.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\numeros capicua\numeros capicua\bin\Debug\numeros capicua.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\numeros capicua\numeros capicua\bin\Debug\numeros capicua.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\numeros capicua\numeros capicua\obj\Debug\numeros capicua.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\numeros capicua\numeros capicua\bin\Debug\numeros capicua.exe.config
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\numeros capicua\numeros capicua\obj\Debug\numeros capicua.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\numeros capicua\numeros capicua\obj\Debug\numeros capicua.pdb
